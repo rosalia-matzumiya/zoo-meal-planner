@@ -1,0 +1,58 @@
+\\psf\Home\Desktop\homework\csharp\newPart2\day2\StarterProject\bin\Debug\StarterProject.exe.config
+\\psf\Home\Desktop\homework\csharp\newPart2\day2\StarterProject\bin\Debug\StarterProject.exe
+\\psf\Home\Desktop\homework\csharp\newPart2\day2\StarterProject\bin\Debug\StarterProject.pdb
+\\psf\Home\Desktop\homework\csharp\newPart2\day2\StarterProject\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\homework\csharp\newPart2\day2\StarterProject\obj\Debug\StarterProject.exe
+\\psf\Home\Desktop\homework\csharp\newPart2\day2\StarterProject\obj\Debug\StarterProject.pdb
+H:\SSD\C#\Part 2\Homework\Homework 1\StarterProject\bin\Debug\StarterProject.exe.config
+H:\SSD\C#\Part 2\Homework\Homework 1\StarterProject\obj\Debug\StarterProject.exe
+H:\SSD\C#\Part 2\Homework\Homework 1\StarterProject\obj\Debug\StarterProject.pdb
+H:\SSD\C#\Part 2\Homework\Homework 1\StarterProject\bin\Debug\StarterProject.exe
+H:\SSD\C#\Part 2\Homework\Homework 1\StarterProject\bin\Debug\StarterProject.pdb
+H:\SSD\C#\Part 2\Homework\Homework 1\StarterProject\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+H:\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+H:\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+H:\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+H:\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+H:\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe
+H:\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.pdb
+C:\Users\A00944240\Desktop\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\A00944240\Desktop\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\A00944240\Desktop\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\A00944240\Desktop\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe
+C:\Users\A00944240\Desktop\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.pdb
+C:\Users\A00944240\Desktop\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Part 2\Homework\Homework 1\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner_v2.1\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Downloads\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Downloads\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Downloads\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\rosalia\Downloads\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe
+C:\Users\rosalia\Downloads\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.pdb
+C:\Users\rosalia\Downloads\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\Zoo_Meal_Planner-matzumiya\Zoo_Meal_Planner-matzumiya-rosalia\Zoo_Meal_Planner_v1\Zoo_Meal_Planner_v1\obj\Debug\StarterProject.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Zoo_Meal_Planner\Zoo_Meal_Planner\bin\Debug\StarterProject.exe.config
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Zoo_Meal_Planner\Zoo_Meal_Planner\obj\Debug\StarterProject.exe
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Zoo_Meal_Planner\Zoo_Meal_Planner\obj\Debug\StarterProject.pdb
